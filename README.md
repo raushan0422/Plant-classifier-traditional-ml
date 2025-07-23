@@ -19,11 +19,13 @@ A powerful image classification app that identifies plant leaf diseases using ha
 
 ---
 
-## 🖼️ Sample UI
+## 📸 Screenshots
 
-<p align="center">
-  <img src="https://i.imgur.com/UgldQBD.png" alt="Streamlit UI" width="700"/>
-</p>
+### 🏠 Home Page (App Interface)
+![App Screenshot 1](screenshots/screenshot1.png)
+
+### 📊 Prediction Results
+![App Screenshot 2](screenshots/screenshot2.png)
 
 ---
 
