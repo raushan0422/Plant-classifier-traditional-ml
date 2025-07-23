@@ -29,6 +29,15 @@ A powerful image classification app that identifies plant leaf diseases using ha
 
 ---
 
+## 🎥 Demo Video
+
+👉 Click to download and view:
+
+[Download Video](demo/project_demo.mp4)
+
+> You can also open it directly in your browser if GitHub supports previewing it.
+
+
 ## 🗂️ Project Structure
 
 ```
