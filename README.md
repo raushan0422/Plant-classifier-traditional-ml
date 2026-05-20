@@ -132,6 +132,12 @@ streamlit run app.py
 
 ---
 
+## 🚀 Live Demo
+
+🔗 https://plant-classifier-traditional-ml-5iydjukcqzhhutb3ybehkw.streamlit.app/
+
+---
+
 ## 👨‍💻 Author
 
 - **Raushan Kumar**
